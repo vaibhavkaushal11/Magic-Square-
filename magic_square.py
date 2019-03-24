@@ -43,4 +43,4 @@ def magic_sqaure(n):
 
 	print("The sum of each row/column/diagonal is = " +str(n*(n**2+1)/2))
 
-magic_sqaure(5)
+magic_sqaure(3)
